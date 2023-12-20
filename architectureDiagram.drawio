@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T16:34:27.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gWvsG8G8Y4Of3kD6e-xC" version="22.1.11" type="device">
+<mxfile host="app.diagrams.net" modified="2023-12-20T16:42:42.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lDPG-WuMpHgiMB1jlhiN" version="22.1.11" type="device">
   <diagram name="Page-1" id="6JWECMsm2gpY-R7SUFQm">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -288,8 +288,8 @@
         <mxCell id="6mbvFhhKIxdu4Y5T3T8f-91" value="&lt;h1&gt;Automated Trading System Architecture&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="30" width="520" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6mbvFhhKIxdu4Y5T3T8f-92" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="600" width="190" height="120" as="geometry" />
+        <mxCell id="6mbvFhhKIxdu4Y5T3T8f-92" value="&lt;h1&gt;Summary&lt;/h1&gt;&lt;p&gt;This architecture diagram describes and automated trading system. The LSTM machine learning algorithm is ideal for time series data and identifying patterns in this type of data.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;u style=&quot;background-color: initial;&quot;&gt;Components&lt;br&gt;&lt;/u&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Neural Network component&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;API component&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cron Scheduler&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Email module&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Trading module&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Yet to be defined: Limits for trade decisions&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="340" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
